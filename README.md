@@ -2,4 +2,4 @@
 
 Vue.js template 
 
-http://ideveloper.by/vue/woods/index.html
+http://ideveloper.by/vue/wood/index.html
