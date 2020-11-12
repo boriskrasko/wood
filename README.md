@@ -3,5 +3,5 @@
 
 ## [GitHub pages](https://boriskrasko.github.io/wood)
 
-![cover](https://boriskrasko.github.io/wood/images/cover.png)
+![cover](https://boriskrasko.github.io/wood/img/cover.png)
 
